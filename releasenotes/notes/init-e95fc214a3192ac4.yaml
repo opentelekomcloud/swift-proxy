@@ -1,0 +1,4 @@
+---
+prelude: >
+    This project implements Reverse proxy to access content in a non-public
+    Swift container.
